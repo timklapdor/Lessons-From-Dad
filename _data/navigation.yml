@@ -1,6 +1,5 @@
 # Site navigation links
 
 - title: about
-  url: /
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+  url: /about/
+  excerpt: "What this site is all about."

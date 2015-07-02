@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: article
 title: Introduction
 tags: [born, baby, first time Dad, birth]
 date: 2011-11-28 13:47:00
