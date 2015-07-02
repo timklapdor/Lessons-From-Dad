@@ -128,7 +128,10 @@ hr.small {
   }
 }
 .intro-header {
-  background: no-repeat center center;
+  background: no-repeat center center, linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ),;
   background-color: #808080;
   background-attachment: scroll;
   -webkit-background-size: cover;
