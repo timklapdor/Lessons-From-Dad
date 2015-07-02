@@ -18,3 +18,6 @@ You see your Dad has been around for 31 years now and he’s picked up some know
 I want you to go out and learn and to teach yourself about life. I want you to grow into an independent person, to make your own mistakes and make your own decisions. But have a listen to your old man, learn from him too.
 
 Please know that your Dad will always love you. There’s nothing you can do to change that. Literally – Nothing!
+
+
+*flickr [photo by Me](http://flickr.com/photos/timklapdor/9310485082) shared under a Creative Commons (BY-NC) license*
