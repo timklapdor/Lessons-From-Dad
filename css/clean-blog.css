@@ -128,10 +128,10 @@ hr.small {
   }
 }
 .intro-header {
-  background:linear-gradient(
+  background-image:linear-gradient(
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
-    ),;
+    );
 background-repeat: no-repeat;
     background-position: center center;
   background-color: #808080;
