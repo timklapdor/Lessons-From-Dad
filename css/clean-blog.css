@@ -128,12 +128,7 @@ hr.small {
   }
 }
 .intro-header {
-  background-image:linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    );
-background-repeat: no-repeat;
-    background-position: center center;
+  background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
   -webkit-background-size: cover;
